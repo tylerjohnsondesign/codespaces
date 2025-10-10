@@ -1,1 +1,6 @@
 /* youtube.css */
+body,
+#header {
+    color: #fff;
+    background: #0f0f0f;
+}

@@ -11,6 +11,19 @@
     </head>
     <body>
         <!-- Get started here -->
+        <div id="header">
+            <div class="header-inner header-left">
+                <img id="logo" src="/assets/youtube.svg" />
+            </div>
+            <div class="header-inner header-center">
+                <form method="POST" id="search">
+                    <input type="text" name="search" placeholder="Search" />
+                    <input type="submit" value="Search" />
+                </form>
+            </div>
+            <div class="header-inner header-right">
+            </div>
+        </div>
         <!-- https://picsum.photos/530/300 -->
     </body>
 </html>
